@@ -1,0 +1,7 @@
+Using the Weather API (https://www.weatherapi.com/) create a weather application that, at a minimum, displays the Curent Temperature, Feels Like Temperature, and Condtion using JavaScript.
+
+You will need to get the data from an API from weatherapi.com. Sign up for a new account, and you will be given an API key which will authenticate and allow you access to the data.
+
+(Creative freedom is encouraged here)
+
+Once the project is complete, commit the project to github and submit the github repository link to the assignment.
